@@ -1,0 +1,35 @@
+.body{
+    background-image: url("https://img.freepik.com/free-photo/child-students-school_23-2149511072.jpg?size=626&ext=jpg&ga=GA1.2.1113498146.1674629633&semt=sph");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div{
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-align: center;
+    margin-left: 80%;
+    margin-top: 10%;
+    width: 200px;
+    height: 450px;
+    padding: 50px;
+    
+}
+.button{
+          background-color: seagreen;
+          padding: 10px;
+          width: 150px;
+          height: 50px;
+          border-top-left-radius: 5px;
+           border-top-right-radius: 5px;
+           border-bottom-left-radius: 5px;
+           border-bottom-right-radius: 5px;
+           font-style: bold;
+          color: white;
+           font-family: sans-serif;
+}
+.input{
+    border-radius: 5px;
+}
